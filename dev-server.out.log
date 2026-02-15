@@ -1,0 +1,57 @@
+
+> my-app@0.0.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+[2m01:21:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v7.3.0[39m  [2mready in [0m[1m998[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5174[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.105:[1m5174[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m01:40:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:40:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:40:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:40:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:41:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:41:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:41:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:41:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:41:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:41:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:42:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:42:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:42:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:42:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:43:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:43:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m01:45:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:46:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:46:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:46:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:47:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:47:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:47:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/App.tsx[22m
+[2m01:48:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:49:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m01:49:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx[22m
+[2m02:00:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/components/Layout.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Home.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Login.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Guides.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Rules.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Recruit.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Members.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Admin.tsx, /@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Profile.tsx[22m
+[2m02:00:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m02:01:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m02:01:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Admin.tsx[22m
+[2m02:01:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/index.css[22m
+[2m02:01:23[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:/Users/38066/ASH-Collective/ash-collective-site/src/pages/Admin.tsx[22m
+[2m02:20:00[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m02:20:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
+[2m02:20:00[22m [36m[1m[vite][22m[39m server restarted.
+[2m02:20:06[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m02:20:06[22m [36m[1m[vite][22m[39m server restarted.
+[2m02:32:29[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m02:32:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+[2m02:32:30[22m [36m[1m[vite][22m[39m server restarted.
+[2m02:32:58[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m02:32:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because vite config has changed
+[2m02:32:58[22m [36m[1m[vite][22m[39m server restarted.
+[2m02:33:23[22m [36m[1m[vite][22m[39m [32m.env.local changed, restarting server...[39m
+[2m02:33:24[22m [36m[1m[vite][22m[39m server restarted.
